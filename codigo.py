@@ -1,4 +1,4 @@
-nombres = "jhon marlon"
+nombres = "marloncito"
 apellidos = "florez cepeda"
 
 saludo = "hola " + nombre + " " + apellido
